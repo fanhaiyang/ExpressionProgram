@@ -35,3 +35,16 @@ F:\项目\软谋\RMFirsrHomework\SqlHelper\obj\Debug\SqlHelper.csprojResolveAsse
 F:\项目\软谋\RMFirsrHomework\SqlHelper\obj\Debug\SqlHelper.csproj.CoreCompileInputs.cache
 F:\项目\软谋\RMFirsrHomework\SqlHelper\obj\Debug\SqlHelper.dll
 F:\项目\软谋\RMFirsrHomework\SqlHelper\obj\Debug\SqlHelper.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\bin\Debug\SqlHelper.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\bin\Debug\SqlHelper.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\obj\Debug\SqlHelper.csprojResolveAssemblyReference.cache
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\obj\Debug\SqlHelper.csproj.CoreCompileInputs.cache
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\obj\Debug\SqlHelper.csproj.CopyComplete
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\obj\Debug\SqlHelper.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\obj\Debug\SqlHelper.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\bin\Debug\ThirdHomework.Interface.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\bin\Debug\ThirdHomework.Model.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\bin\Debug\ThirdHomework.MyAttribute.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\bin\Debug\ThirdHomework.Interface.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\bin\Debug\ThirdHomework.Model.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\SqlHelper\bin\Debug\ThirdHomework.MyAttribute.pdb

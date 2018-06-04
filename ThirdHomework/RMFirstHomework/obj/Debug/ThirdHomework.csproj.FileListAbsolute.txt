@@ -1,0 +1,16 @@
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\RMFirstHomework.exe.config
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\RMFirstHomework.exe
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\RMFirstHomework.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\obj\Debug\ThirdHomework.csproj.CoreCompileInputs.cache
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\obj\Debug\RMFirstHomework.exe
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\obj\Debug\RMFirstHomework.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\ThirdHomework.Model.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\ThirdHomework.MyAttribute.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\ThirdHomework.Model.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\ThirdHomework.MyAttribute.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\obj\Debug\ThirdHomework.csprojResolveAssemblyReference.cache
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\obj\Debug\ThirdHomework.csproj.CopyComplete
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\ThirdHomework.Interface.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\ThirdHomework.Interface.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\SqlHelper.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\SqlHelper.pdb

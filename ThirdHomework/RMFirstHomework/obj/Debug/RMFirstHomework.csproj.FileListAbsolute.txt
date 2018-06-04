@@ -25,3 +25,9 @@ F:\项目\软谋\RMFirsrHomework\RMFirstHomework\obj\Debug\RMFirstHomework.pdb
 F:\项目\软谋\RMFirsrHomework\RMFirstHomework\bin\Debug\RMFirstHomework.exe.config
 F:\项目\软谋\RMFirsrHomework\RMFirstHomework\bin\Debug\RMFirstHomework.exe
 F:\项目\软谋\RMFirsrHomework\RMFirstHomework\bin\Debug\RMFirstHomework.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\RMFirstHomework.exe.config
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\RMFirstHomework.exe
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\bin\Debug\RMFirstHomework.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\obj\Debug\RMFirstHomework.csproj.CoreCompileInputs.cache
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\obj\Debug\RMFirstHomework.exe
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\RMFirstHomework\obj\Debug\RMFirstHomework.pdb

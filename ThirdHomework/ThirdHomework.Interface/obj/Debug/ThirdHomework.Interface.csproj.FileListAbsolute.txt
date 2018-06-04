@@ -1,0 +1,11 @@
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Interface\obj\Debug\ThirdHomework.Interface.csproj.CoreCompileInputs.cache
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Interface\bin\Debug\ThirdHomework.Interface.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Interface\bin\Debug\ThirdHomework.Interface.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Interface\bin\Debug\ThirdHomework.Model.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Interface\bin\Debug\ThirdHomework.MyAttribute.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Interface\bin\Debug\ThirdHomework.Model.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Interface\bin\Debug\ThirdHomework.MyAttribute.pdb
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Interface\obj\Debug\ThirdHomework.Interface.csprojResolveAssemblyReference.cache
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Interface\obj\Debug\ThirdHomework.Interface.csproj.CopyComplete
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Interface\obj\Debug\ThirdHomework.Interface.dll
+D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Interface\obj\Debug\ThirdHomework.Interface.pdb

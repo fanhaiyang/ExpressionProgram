@@ -5,9 +5,9 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Configuration;
-using RMFirstHomework.Interface;
+using ThirdHomework.Interface;
 
-namespace RMFirstHomework.Factory
+namespace ThirdHomework.Factory
 {
     public class MyFactory
     {

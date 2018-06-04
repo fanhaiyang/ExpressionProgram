@@ -41,13 +41,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Code\ConditionBuilderVisitor.cs" />
+    <Compile Include="Code\SqlOperator.cs" />
+    <Compile Include="ExpressionSqlHelper.cs" />
     <Compile Include="GetDataHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RMFirstHomework\RMFirstHomework.csproj">
-      <Project>{0b49e3c4-dc1c-442d-a2b1-2851093d117b}</Project>
-      <Name>RMFirstHomework</Name>
+    <ProjectReference Include="..\ThirdHomework.Interface\ThirdHomework.Interface.csproj">
+      <Project>{84e7ccec-77f9-42a3-a35a-3ce9f4f40d7f}</Project>
+      <Name>ThirdHomework.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThirdHomework.Model\ThirdHomework.Model.csproj">
+      <Project>{9999b7fa-4385-4219-a3fc-6d57f3e4410e}</Project>
+      <Name>ThirdHomework.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThirdHomework.MyAttribute\ThirdHomework.MyAttribute.csproj">
+      <Project>{e8578d5c-a991-4305-a6cc-a8fb39f355a9}</Project>
+      <Name>ThirdHomework.MyAttribute</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
