@@ -59,10 +59,10 @@ namespace ThirdHomework
             #region 查询：表达式目录树
             {
                 ExpressionSqlHelper expressionSql = new ExpressionSqlHelper();
-                Expression<Func<User, bool>> func = company => company.Id > 2 && company.Name.Contains("2");
-                List<User> userList= expressionSql.ExpressQuery<User>(func);
+                List<User> userList = expressionSql.ExpressQuery<User>(n => n.Id > 2 && n.Name.Contains("1"));
                 if (userList.Count > 0)
                 {
+                    Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("\n\n--表达式目录树--获取User集合：\n");
                     foreach (var item in userList)
                     {
@@ -71,77 +71,77 @@ namespace ThirdHomework
                 }
             }
             #endregion
+            Console.ForegroundColor = ConsoleColor.Gray;
+            // 添加数据
+            {
+                User userModel = new User()
+                {
+                    Name = "神韵凌天",
+                    Account = "admin",
+                    Password = "123456",
+                    Email = "931385258@qq.com",
+                    Mobile = "13812345678",
+                    CompanyId = 1,
+                    CreateTime = DateTime.Now,
+                    LastLoginTime = DateTime.Now,
+                    LastModifyTime = DateTime.Now,
+                    CreatorId = 1,
+                    Status = 1,
+                    UserType = 2
+                };
+                if (userModel.Validate())
+                {
+                    int row = client.AddModel(userModel);
+                    if (row > 0)
+                    {
+                        Console.WriteLine("\n\n添加User对象：");
+                        Console.WriteLine(ShowData(userModel));
+                    }
+                    else
+                    {
+                        Console.WriteLine("\n\n添加User对象失败！！！");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("\n\n添加User对象失败！！！属性格式错误");
+                }
+            }
 
-            //// 添加数据
-            //{
-            //    User userModel = new User()
-            //    {
-            //        Name = "神韵凌天",
-            //        Account = "admin",
-            //        Password = "123456",
-            //        Email = "931385258@qq.com",
-            //        Mobile = "13812345678",
-            //        CompanyId = 1,
-            //        CreateTime = DateTime.Now,
-            //        LastLoginTime = DateTime.Now,
-            //        LastModifyTime = DateTime.Now,
-            //        CreatorId = 1,
-            //        Status = 1,
-            //        UserType = 2
-            //    };
-            //    if (userModel.Validate())
-            //    {
-            //        int row = client.AddModel(userModel);
-            //        if (row > 0)
-            //        {
-            //            Console.WriteLine("\n\n添加User对象：");
-            //            Console.WriteLine(ShowData(userModel));
-            //        }
-            //        else
-            //        {
-            //            Console.WriteLine("\n\n添加User对象失败！！！");
-            //        }
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine("\n\n添加User对象失败！！！属性格式错误");
-            //    }
-            //}
+            // 更新User对象数据
+            {
+                try
+                {
+                    User userModel = client.GetModelList<User>()[1];
+                    if (userModel.Id != 0)
+                    {
+                        userModel.Name = "TestUpdate";
+                        userModel.Mobile = "15726683424";
+                        if (userModel.Validate())
+                        {
+                            int row = client.UpdateModel<User>(userModel);
+                            if (row > 0)
+                            {
+                                Console.WriteLine("\n\n更新User对象：");
+                                Console.WriteLine(ShowData(userModel));
+                            }
+                            else
+                            {
+                                Console.WriteLine("\n\n更新User对象失败！！！");
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("\n\n更新User对象失败！！！属性格式错误");
+                        }
+                    }
 
-            //// 更新User对象数据
-            //{
-            //    try
-            //    {
-            //        User userModel = client.GetModelList<User>()[1];
-            //        if (userModel.Id != 0)
-            //        {
-            //            userModel.Name = "TestUpdate";
-            //            userModel.Mobile = "15726683424";
-            //            if (userModel.Validate())
-            //            {
-            //                int row = client.UpdateModel<User>(userModel);
-            //                if (row > 0)
-            //                {
-            //                    Console.WriteLine("\n\n更新User对象：");
-            //                    Console.WriteLine(ShowData(userModel));
-            //                }
-            //                else
-            //                {
-            //                    Console.WriteLine("\n\n更新User对象失败！！！");
-            //                }
-            //            }
-            //            else
-            //            {
-            //                Console.WriteLine("\n\n更新User对象失败！！！属性格式错误");
-            //            }
-            //        }
-
-            //    }
-            //    catch (Exception ex)
-            //    {
-            //        Console.WriteLine("\n\n更新数据出错：", ex.Message);
-            //    }
-            //}
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("\n\n更新数据出错：", ex.Message);
+                }
+            }
 
             //// 删除数据
             //{

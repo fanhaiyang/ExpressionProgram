@@ -7,3 +7,11 @@ D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Model\obj
 D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Model\obj\Debug\ThirdHomework.Model.csproj.CopyComplete
 D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Model\obj\Debug\ThirdHomework.Model.dll
 D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.Model\obj\Debug\ThirdHomework.Model.pdb
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.Model\bin\Debug\ThirdHomework.Model.dll
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.Model\bin\Debug\ThirdHomework.Model.pdb
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.Model\bin\Debug\ThirdHomework.MyAttribute.dll
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.Model\bin\Debug\ThirdHomework.MyAttribute.pdb
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.Model\obj\Debug\ThirdHomework.Model.csprojResolveAssemblyReference.cache
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.Model\obj\Debug\ThirdHomework.Model.csproj.CoreCompileInputs.cache
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.Model\obj\Debug\ThirdHomework.Model.dll
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.Model\obj\Debug\ThirdHomework.Model.pdb

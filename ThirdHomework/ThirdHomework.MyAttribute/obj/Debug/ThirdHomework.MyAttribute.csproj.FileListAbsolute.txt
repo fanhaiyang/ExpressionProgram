@@ -4,3 +4,8 @@ D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.MyAttribu
 D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.MyAttribute\obj\Debug\ThirdHomework.MyAttribute.dll
 D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.MyAttribute\obj\Debug\ThirdHomework.MyAttribute.pdb
 D:\软谋教育培训\mywork\ThirdHomework\ThirdHomework\ThirdHomework.MyAttribute\obj\Debug\ThirdHomework.MyAttribute.csprojResolveAssemblyReference.cache
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.MyAttribute\bin\Debug\ThirdHomework.MyAttribute.dll
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.MyAttribute\bin\Debug\ThirdHomework.MyAttribute.pdb
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.MyAttribute\obj\Debug\ThirdHomework.MyAttribute.csproj.CoreCompileInputs.cache
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.MyAttribute\obj\Debug\ThirdHomework.MyAttribute.dll
+F:\项目\软谋\RMThirdHomework\ThirdHomework\ThirdHomework.MyAttribute\obj\Debug\ThirdHomework.MyAttribute.pdb
