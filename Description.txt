@@ -1,0 +1,26 @@
+Ruanmou.Libraries升级作业(源码在)
+
+
+1 将datareader到实体的转换，换成基于表达式目录树方式生成下，然后缓存起来使用
+
+
+2 查询数据来的数据列表，尝试下Where Select Take TakeWhile Skip SKipWhere OrderBy OrderByDescending ThenBy   ThenByDescending   Join  GroupBy  Distinct  Union Min Max Average Sum First FirstOrDefault
+  扩展方法Linq to Object都测试一遍
+
+3  将序列化反序列化/验证码/XMLHelper/Log集成到类库，完善Ruanmou.Libraries
+
+
+4  提供支持表达式树的查询   Query<T>(Expression<Func<T, bool>> predicate) 
+   支持表达式树的按条件批量 Delete<T>(Expression<Func<T, bool>> predicate)
+                               
+5  (扩展)支持表达式树的按条件批量Update<T>(Expression<Func<T, bool>> predicate,Expression<Action<T>> updateAction)
+ 
+6  (扩展)目前课程中只支持了StartsWith  Contains  EndsWith，，
+   试试Equals,In等查询 （Substring）
+   再试着升级为参数化方式，不仅仅是拼装字符串 
+
+
+
+
+
+
